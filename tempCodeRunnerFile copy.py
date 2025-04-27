@@ -1,0 +1,1 @@
+print(movies.duplicated().sum())
